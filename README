@@ -1,3 +1,6 @@
 # good-app
 Proyecto vinculado con Jira (KAN-2)
 Funcionalidad de registro de usuarios (KAN-2)
+git add .
+git commit -m "KAN-3: Crear módulo de validación de habilidades"
+git push origin feature/KAN-3-validacion
